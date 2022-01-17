@@ -11,9 +11,6 @@ export default {
 
 <style lang="css" scoped>
 h3{
-
-  color: #F00;
-
-
+  color: #00F;
 }
 </style>
