@@ -4,11 +4,16 @@
 
 <script>
 export default {
+
+
 }
 </script>
 
 <style lang="css" scoped>
 h3{
-  color: #00f
+
+  color: #F00;
+
+
 }
 </style>
