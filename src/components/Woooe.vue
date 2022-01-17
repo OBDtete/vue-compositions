@@ -1,5 +1,5 @@
 <template lang="html">
-
+  <h3>This is Woooe component</h3>
 </template>
 
 <script>
